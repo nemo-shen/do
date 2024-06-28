@@ -1,0 +1,15 @@
+{
+  "name": "do",
+  "version": "0.1.0",
+  "description": "",
+  "main": "fn.js",
+  "bin": {
+    "fn": "./fn.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
