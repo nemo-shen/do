@@ -1,4 +1,4 @@
-# do
+# Fn
 
 不需要考虑 JavaScript 模块区别，命令行直接调用 JavaScript 文件内部函数（主要用于函数式编程的项目）
 
