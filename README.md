@@ -26,3 +26,14 @@ exit
 - [ ] 全局缓存代码快照(主要用于提高下次调用的速度，文件级缓存)
 
 
+
+# 在JavaScript项目中运行，将会自动分析项目中所有可执行的函数
+fn add
+
+# 列出所有已添加的JavaScript项目
+fn list
+
+# 进入项目
+fn <project-name>
+
+call> foo('xxx')
