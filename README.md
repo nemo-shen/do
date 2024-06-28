@@ -25,8 +25,7 @@ exit
 - [ ] 处理不同模块语法
 - [ ] 全局缓存代码快照(主要用于提高下次调用的速度，文件级缓存)
 
-
-
+```bash
 # 在JavaScript项目中运行，将会自动分析项目中所有可执行的函数
 fn add
 
@@ -37,3 +36,4 @@ fn list
 fn <project-name>
 
 call> foo('xxx')
+```
