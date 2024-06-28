@@ -4,9 +4,14 @@
 
 ```bash
 
-do ./your_file.js doFoo()
+# enter function env
+fn
 
-do ./your_file.js doFoo(parma, ...)
+# test function
+print('foo')
+
+# exit fn env
+exit
 ```
 
 和 node -e / babel-node -e 类似

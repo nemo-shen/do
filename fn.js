@@ -43,6 +43,6 @@ rl.on('line', (line) => {
   // 再次提示用户输入命令
   rl.prompt();
 }).on('close', () => {
-  console.log('Exiting call CLI');
+  console.log('Exiting fn CLI');
   process.exit(0);
 });
